@@ -1,0 +1,13 @@
+.drag-box {
+    width: 10rem;
+    padding: 1rem;
+    margin: 2rem;
+    border: 1px dashed black;
+    text-align: center;
+    border-radius: 1rem;
+    background: whitesmoke;
+}
+
+.drag-box:hover {
+    background: lightgrey
+}
